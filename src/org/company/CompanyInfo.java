@@ -14,6 +14,10 @@ private void companyaddress() {
 	System.out.println("Company Address is Sholinganallur");
 
 }
+private void companyemployee() {
+	System.out.println("Aishwarya");
+
+}
 public static void main(String[] args) {
 	CompanyInfo ci = new CompanyInfo();
 	ci.companyname();
